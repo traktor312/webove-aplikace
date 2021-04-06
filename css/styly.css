@@ -1,0 +1,53 @@
+header{
+    text-align: center;
+}
+
+.seda{
+    background-color: lightgray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bila{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.navbar{
+    margin-bottom: 0px;
+}
+.galerie{
+    margin: 20px;
+    width: 220px;
+}
+.galerie:hover{
+    text-decoration: underline;    
+    opacity: 0.5;
+}
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(189, 187, 189);
+    text-align: center;
+    font-size: 80%;
+}
+h1{
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.zluta{
+    background-color: yellow;
+    padding-top: 10px;
+    padding-bottom: 2px;
+}
+h2{
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+}
